@@ -1,8 +1,8 @@
-Olá, me chamo Bruno Nóbrega!
+Hello there! Bruno Nóbrega here, nice to meet you! :)
 
-🎓 Graduando em Sistemas e Mídias Digitais pela Universidade Federal do Ceará<br>
-📚 Estudando Desenvolvimento Front-end e UI/UX design<br>
-😄 Pronomes: ele/dele
+🎓 Undergraduate in Digital Systems and Medias in Federal University of Ceará (Fortaleza, Brazil)<br>
+📚 Studying Front-end Development and UI/UX design<br>
+😄 Pronouns: he/him (ele/dele in Portuguese)
 
 <div align="center">
   <a href="https://github.com/nobrnbruno">
