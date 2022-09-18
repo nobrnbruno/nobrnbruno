@@ -1,4 +1,4 @@
-Hello there! Bruno Nóbrega here, nice to meet you! :)
+Hello there! Bruno Nóbrega here! Welcome and nice to meet you! :)
 
 🎓 Undergraduate in Digital Systems and Medias in Federal University of Ceará (Fortaleza, Brazil)<br>
 📚 Studying Front-end Development and UI/UX design<br>
