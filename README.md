@@ -1,7 +1,7 @@
 Hello there! Bruno Nóbrega here! Welcome and nice to meet you! :)
 
-🎓 Undergraduate in Digital Systems and Medias in Federal University of Ceará (Fortaleza, Brazil)<br>
-📚 Studying Front-end Development and UI/UX design<br>
+🎓 I'm an Undergraduate in Digital Systems and Media in Federal University of Ceará (Fortaleza, Brazil)<br>
+📚 Studying Front-end & Web Development and UI/UX design<br>
 😄 Pronouns: he/him (ele/dele in Portuguese)
 
 <div align="center">
