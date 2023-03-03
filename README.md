@@ -2,6 +2,7 @@ Hello there! Bruno Nóbrega here! Welcome and nice to meet you! :)
 
 🎓 I'm an Undergraduate in Digital Systems and Media at the Federal University of Ceará (Fortaleza – CE, Brazil)<br>
 📚 Studying Front-end & Web Development and UI/UX design<br>
+🗣 Languages: Portuguese and English, currently studying German<br>
 
 <div align="center">
   <a href="https://github.com/nobrnbruno">
