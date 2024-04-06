@@ -4,11 +4,6 @@ Hi! Bruno Nóbrega here! Welcome to my profile.
 📚 Have been studying and involved on projects in the areas of Front-end, Web and Mobile Development and UI/UX design. Mainly experienced/focused on HTML, CSS, Bootstrap, JS, SQL, React, Flutter and Figma, and always interested in any new knowledge and practices<br>
 🗣 Languages: Portuguese and English, currently studying German<br>
 
-<div align="center">
-  <a href="https://github.com/nobrnbruno">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=nobrnbruno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrnbruno&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
  </div>
   <div style="display: inline"> <br>
