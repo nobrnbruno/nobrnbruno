@@ -1,7 +1,7 @@
 Hi! Bruno Nóbrega here! Welcome to my profile.
 
 🎓 I am pursuing an undergraduate degree in Digital Systems and Media at the Federal University of Ceará (Fortaleza – CE, Brazil)<br>
-📚 I have been studying and getting involved in projects on the areas of Front-end, Web and Mobile Development and UI/UX design, both at the academy and the job market. I am mainly focused and experienced on HTML, CSS, Bootstrap, JavaScript, SQL, React, Flutter and Figma, and I am always interested in any new knowledges and practices<br>
+📚 I have been studying and getting involved in projects on the areas of Front-end, Web and Mobile Development and UI/UX design, both at the academy and the job market. I am mainly focused and experienced on HTML, CSS, JavaScript, SQL, Angular, Flutter and Figma, and I am always interested in any new knowledges and practices<br>
 🗣 Languages: Portuguese (native speaker) and English (C2 – Proficient), currently studying German<br>
 
 
